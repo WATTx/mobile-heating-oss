@@ -1,4 +1,4 @@
-# Mobile Heating OSS Licenses
+# MobileHeating OSS Licenses
 
 ## Frontend
 
