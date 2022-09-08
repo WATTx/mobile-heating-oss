@@ -924,7 +924,7 @@
 
 ---
 
-### @strapi/plugin-documentation@4.3.6
+### @strapi/plugin-documentation@4.3.8
 
 #### MIT*, Strapi Solutions SAS
 
@@ -954,7 +954,7 @@
 
 ---
 
-### @strapi/plugin-i18n@4.3.6
+### @strapi/plugin-i18n@4.3.8
 
 #### MIT*, Strapi Solutions SAS
 
@@ -983,7 +983,7 @@
 
 ---
 
-### @strapi/plugin-users-permissions@4.3.6
+### @strapi/plugin-users-permissions@4.3.8
 
 #### MIT*, Strapi Solutions SAS
 
@@ -1012,7 +1012,7 @@
 
 ---
 
-### @strapi/provider-email-sendgrid@4.3.6
+### @strapi/provider-email-sendgrid@4.3.8
 
 #### MIT*, Strapi Solutions SAS
 
@@ -1042,7 +1042,7 @@
 
 ---
 
-### @strapi/strapi@4.3.6
+### @strapi/strapi@4.3.8
 
 #### MIT*, Strapi Solutions SAS
 
