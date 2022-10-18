@@ -120,7 +120,7 @@
 
 ---
 
-### @mui/icons-material@5.10.3
+### @mui/icons-material@5.10.9
 
 #### MIT, MUI Team
 
@@ -149,7 +149,7 @@
 
 ---
 
-### @mui/material@5.10.4
+### @mui/material@5.10.9
 
 #### MIT, MUI Team
 
@@ -178,7 +178,7 @@
 
 ---
 
-### @next/bundle-analyzer@12.2.5
+### @next/bundle-analyzer@12.3.1
 
 #### MIT, 
 
@@ -207,7 +207,7 @@
 
 ---
 
-### @reduxjs/toolkit@1.8.5
+### @reduxjs/toolkit@1.8.6
 
 #### MIT, Mark Erikson
 
@@ -390,7 +390,7 @@
 
 ---
 
-### next-intl@2.7.5
+### next-intl@2.7.6
 
 #### MIT, Jan Amann
 
@@ -441,7 +441,7 @@
 
 ---
 
-### next-seo@5.5.0
+### next-seo@5.6.0
 
 #### MIT, Gary Meehan
 
@@ -557,7 +557,7 @@
 
 ---
 
-### react-dropzone@14.2.2
+### react-dropzone@14.2.3
 
 #### MIT, Param Aggarwal
 
@@ -587,7 +587,7 @@
 
 ---
 
-### react-redux@8.0.2
+### react-redux@8.0.4
 
 #### MIT, Dan Abramov
 
